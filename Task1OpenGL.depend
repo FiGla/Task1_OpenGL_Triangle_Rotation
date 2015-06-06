@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430723038 source:f:\fci\fourth year\sec term\gfx\task1opengl\main.c
+	<windows.h>
+	<gl/gl.h>
+
